@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhesh</h1>
-<h3 align="center">Sophomore Computer Science Student</h3>
+<h3 align="center">Junior Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhesh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="muhesh-kumar" /> </p>
 

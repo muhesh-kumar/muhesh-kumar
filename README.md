@@ -7,8 +7,6 @@
 - 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Software Development**
 - 📫 How to reach me **muhesh4102002@gmail.com**
 
-<hr>
-
 <!-- SOCIALS -->
 
 ### Connect with me here
@@ -35,7 +33,6 @@
 </td>
 </tr>
 </table>
-<hr>
 
 <!-- LANGUAGES AND TOOLS -->
 
@@ -89,23 +86,17 @@
 </table>
 </div>
 
-<hr>
-
 <!-- MOST USED LANGUAGES -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhesh-kumar&show_icons=true&locale=en&layout=compact" alt="muhesh-kumar" /></p>
-<hr>
 
 <!-- PROFILE TROPHYS -->
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhesh-kumar" alt="muhesh-kumar" /></a> </p>
-<hr>
 
 <!-- GITHUB STATUS -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhesh-kumar&show_icons=true&locale=en" alt="muhesh-kumar" /></p>
-<hr>
 
 <!-- CONTRIBUTIONS AND STREAK -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhesh-kumar&" alt="muhesh-kumar" /></p>
-<hr>
 
 <!-- PROFILE VIEWS BADGE -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhesh-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="muhesh-kumar" /> </p>

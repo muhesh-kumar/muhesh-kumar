@@ -2,7 +2,7 @@
 
 ### Hi there👋
 
-- 🌱 I’m currently learning **Haskell**
+- 🌱 I’m currently learning **NextJS**
 - 👨‍💻 All of my projects are available at [https://github.com/muhesh-kumar](https://github.com/muhesh-kumar)
 - 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Software Development**
 - 📫 How to reach me **muhesh4102002@gmail.com**

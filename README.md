@@ -2,9 +2,9 @@
 
 ### Hi there👋
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Astro**
 - 👨‍💻 All of my projects are available at [https://github.com/muhesh-kumar](https://github.com/muhesh-kumar)
-- 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Software Development**
+- 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Web Development**
 - 📫 How to reach me **muhesh4102002@gmail.com**
 
 <!-- SOCIALS -->

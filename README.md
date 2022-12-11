@@ -2,7 +2,7 @@
 
 ### Hi there👋
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://github.com/muhesh-kumar](https://github.com/muhesh-kumar)
 - 💬 Ask me about **Competitive Programming, Data Structures, Algorithms, Web Development**
 - 📫 How to reach me **muhesh4102002@gmail.com**
